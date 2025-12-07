@@ -2,6 +2,7 @@
 # 👋 Hi, I'm Leyla
 
 Java Backend Developer
+
 Passionate about building clean, scalable, and maintainable backend systems. Focused on improving my skills daily and delivering real-world projects.
 
 ---
