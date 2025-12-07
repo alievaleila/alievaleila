@@ -13,13 +13,16 @@ Passionate about building clean, scalable, and maintainable backend systems. Foc
 Java · PostgreSQL  
 
 **Frameworks & Libraries:**  
-Spring Framework   
+Spring Framework
+Hibernate / JPA  
+JUnit  
+Lombok
 
 **Databases:**  
 PostgreSQL · SQL 
 
 **Tools & Platforms:**  
-Maven · Git · JUnit
+Maven · Git · JUnit · Postman
 
 ---
 
