@@ -10,7 +10,7 @@ Passionate about building clean, scalable, and maintainable backend systems. Foc
 ## 🧰 Tech Stack
 
 **Languages:**  
-Java SE · PostgreSQL  
+Java · PostgreSQL  
 
 **Frameworks & Libraries:**  
 Spring Framework   
