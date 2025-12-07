@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Leyla
 
-**Java Backend Developer (Early Career)**  
+**Java Backend Developer **  
 Passionate about building clean, scalable, and maintainable backend systems. Focused on improving my skills daily and delivering real-world projects.
 
 ---
@@ -9,13 +9,13 @@ Passionate about building clean, scalable, and maintainable backend systems. Foc
 ## 🧰 Tech Stack
 
 **Languages:**  
-Java SE · SQL  
+Java SE · PostgreSQL  
 
 **Frameworks & Libraries:**  
-Spring Framework · Hibernate/JPA  
+Spring Framework   
 
 **Databases:**  
-PostgreSQL · MySQL · Redis  
+PostgreSQL · SQL 
 
 **Tools & Platforms:**  
 Docker · Maven · Gradle · Git · JUnit · Mockito  
@@ -23,9 +23,7 @@ Docker · Maven · Gradle · Git · JUnit · Mockito
 ---
 
 ## 🔍 Currently Learning
-- JDBC & REST API development  
-- Cloud fundamentals & deployment workflows  
-- Optimizing backend architecture and system design  
+- Spring Framework (MVC Pattern) 
 
 ---
 
@@ -34,8 +32,8 @@ I'm open to collaborations, discussions, and new challenges!
 
 | Platform | Link |
 | --- | --- |
-| 🔗 LinkedIn | [Connect with me](your-linkedin-url) |
-| ✉️ Email | your-email@example.com |
+| 🔗 LinkedIn | [Connect with me](https://linkedin.com/in/alievaleila) |
+| ✉️ Email | lleilalieva@gmail.com |
 
 ---
 
