@@ -18,7 +18,7 @@ Spring Framework
 PostgreSQL · SQL 
 
 **Tools & Platforms:**  
-Docker · Maven · Gradle · Git · JUnit · Mockito  
+Maven · Git · JUnit
 
 ---
 
