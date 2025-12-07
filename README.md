@@ -14,6 +14,7 @@ Java · PostgreSQL
 
 **Frameworks & Libraries:**  
 Spring Framework
+
 Hibernate / JPA  
 JUnit  
 Lombok
