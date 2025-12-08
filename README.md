@@ -22,7 +22,7 @@ Lombok
 PostgreSQL · SQL 
 
 **Tools & Platforms:**  
-Maven · Git · JUnit · Postman
+Maven · Github · JUnit · Postman
 
 Other: Git, REST API, OOP
 
