@@ -24,6 +24,8 @@ PostgreSQL · SQL
 **Tools & Platforms:**  
 Maven · Git · JUnit · Postman
 
+Other: Git, REST API, OOP
+
 ---
 
 ## 🔍 Currently Learning
