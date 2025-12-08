@@ -41,4 +41,4 @@ I'm open to collaborations, discussions, and new challenges!
 
 ---
 
-> 💡 “Code is like poetry; simplicity and readability are everything.”
+>⭐️ If you like my projects, don’t forget to give them a star!
