@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Leyla
 
 Java Backend Developer
@@ -10,10 +9,10 @@ Passionate about building clean, scalable, and maintainable backend systems. Foc
 ## 🧰 Tech Stack
 
 **Languages:**  
-Java · PostgreSQL  
+Java · PostgreSQL · HTML   
 
 **Frameworks & Libraries:**  
-Spring Framework  
+Spring Framework (MVC Pattern, Thymeleaf)  
 Hibernate / JPA  
 JUnit  
 Lombok
@@ -29,7 +28,8 @@ Other: Git, REST API, OOP
 ---
 
 ## 🔍 Currently Learning
-- Spring Framework (MVC Pattern) 
+- Advanced Spring Framework (MVC Pattern, Thymeleaf)  
+- Advanced PostgreSQL / SQL  
 
 ---
 
@@ -43,4 +43,5 @@ I'm open to collaborations, discussions, and new challenges!
 
 ---
 
->⭐️ If you like my projects, don’t forget to give them a star!
+> ⭐️ If you like my projects, don’t forget to give them a star!
+
