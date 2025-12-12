@@ -28,8 +28,7 @@ Other: Git, REST API, OOP
 ---
 
 ## 🔍 Currently Learning
-- Advanced Spring Framework (MVC Pattern, Thymeleaf)  
-- Advanced PostgreSQL / SQL  
+- Spring Framework (MVC Pattern, Thymeleaf)  
 
 ---
 
