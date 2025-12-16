@@ -41,10 +41,9 @@ I'm open to collaborations, discussions, and new challenges!
 | 🔗 LinkedIn | [Connect with me](https://linkedin.com/in/alievaleila) |
 | ✉️ Email | lleilalieva@gmail.com |
 
-📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alievaleila&show_icons=true&theme=tokyonight)
 
-🔝 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alievaleila&layout=compact&theme=tokyonight)
 
 
