@@ -42,8 +42,13 @@ I'm open to collaborations, discussions, and new challenges!
 | ✉️ Email | lleilalieva@gmail.com |
 
 ### 📊 GitHub Analytics
+![Java](https://img.shields.io/badge/Java-Backend-orange?logo=java)
 
-[![Leyla's GitHub İstatistikləri](https://github-readme-stats.vercel.app/api?username=**alievaleila**&show_icons=true&theme=dark**&hide_rank=true**)](https://github.com/alievaleila)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alievaleila&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alievaleila&layout=compact&theme=tokyonight&hide=c%2B%2B,html,css)
+
 
 
 
