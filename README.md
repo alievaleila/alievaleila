@@ -43,9 +43,7 @@ I'm open to collaborations, discussions, and new challenges!
 
 ### 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alievaleila&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alievaleila&layout=compact&theme=tokyonight&hide=c%2B%2B,html,css)
+[![Leyla's GitHub İstatistikləri](https://github-readme-stats.vercel.app/api?username=**alievaleila**&show_icons=true&theme=dark**&hide_rank=true**)](https://github.com/alievaleila)
 
 
 
