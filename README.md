@@ -43,9 +43,9 @@ I'm open to collaborations, discussions, and new challenges!
 
 ### 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alievaleila&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide=c%2B%2B,html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alievaleila&layout=compact&theme=tokyonight&hide=c%2B%2B,html,css)
 
 
 
