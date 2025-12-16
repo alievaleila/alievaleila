@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Leyla
+#  Hi, I'm Leyla ![Java](https://img.shields.io/badge/Java-%20-orange?logo=java&logoColor=white)
+
 
 Java Backend Developer
 
