@@ -28,7 +28,8 @@ Other: Git, REST API, OOP
 ---
 
 ## 🔍 Currently Learning
-- Spring Framework (MVC Pattern, Thymeleaf)  
+- Spring Framework (MVC Pattern, Thymeleaf)
+- Spring Security
 
 ---
 
