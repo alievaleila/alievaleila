@@ -42,8 +42,7 @@ I'm open to collaborations, discussions, and new challenges!
 | ✉️ Email | lleilalieva@gmail.com |
 
 ### 📊 GitHub Analytics
-![Java](https://img.shields.io/badge/Java-Backend-orange?logo=java)
-
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alievaleila&show_icons=true&theme=tokyonight)
 
