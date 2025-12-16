@@ -1,8 +1,8 @@
-#  Hi, I'm Leyla <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/>
+#  Hi, I'm Leyla 
 
 
 
-Java Backend Developer
+Java Backend Developer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/>
 
 Passionate about building clean, scalable, and maintainable backend systems. Focused on improving my skills daily and delivering real-world projects.
 
