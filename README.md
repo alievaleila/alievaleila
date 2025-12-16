@@ -12,7 +12,7 @@ Passionate about building clean, scalable, and maintainable backend systems. Foc
 Java · PostgreSQL · HTML   
 
 **Frameworks & Libraries:**  
-Spring Framework (MVC Pattern, Thymeleaf)  
+Spring Framework (Core, Boot, Security, MVC Pattern, Thymeleaf)  
 Hibernate / JPA  
 JUnit  
 Lombok
