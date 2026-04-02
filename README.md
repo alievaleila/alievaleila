@@ -6,7 +6,6 @@ International Certiport IT Specialist (Java) certified Backend Developer, buildi
 
 ---
 
-## 🧰 Tech Stack
 ### 🛠️ My Tech Stack
 
 #### 🌐 Languages
@@ -55,9 +54,12 @@ International Certiport IT Specialist (Java) certified Backend Developer, buildi
     * Database persistence and complex querying with **PostgreSQL**.
 * **Why it matters:** This project showcases my ability to build a "monolith" production-ready system, managing both server-side logic and dynamic UI rendering within a single integrated framework.
 
+### 🎯 Current Focus
 
+Currently mastering Advanced Java Backend development, focusing on Microservices, AI API integration, and high-scale infrastructure with Redis, Stripe, and Spring Cloud.
 
 ## 🌐 Connect with Me
+
 I'm open to collaborations, discussions, and new challenges!  
 
 | Platform | Link |
