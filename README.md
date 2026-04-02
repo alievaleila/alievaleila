@@ -48,7 +48,7 @@ International Certiport IT Specialist (Java) certified Backend Developer, buildi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F.svg?style=flat-square&logo=Thymeleaf&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=white)
-* **Key Features:** * Implements **Model-View-Controller** architecture for clean separation of concerns.
+* **Key Features:** Implements **Model-View-Controller** architecture for clean separation of concerns.
     * Role-based access control (Admin/User) using **Spring Security**.
     * Dynamic frontend rendering with **Thymeleaf** templates.
     * Database persistence and complex querying with **PostgreSQL**.
