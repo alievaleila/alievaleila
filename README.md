@@ -17,6 +17,7 @@ International Certiport IT Specialist (Java) certified Backend Developer, buildi
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
 #### 🗄️ Databases
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -35,6 +36,26 @@ International Certiport IT Specialist (Java) certified Backend Developer, buildi
 
 
 ---
+## 📂 Featured Projects
+
+#### 🛒 [Karma Shop — E-Commerce Platform (MVC)](https://github.com/alievaleila/karma-shop)
+**Description:** A complete **Spring Boot MVC** application that handles the full lifecycle of an e-commerce platform, from product browsing to secure checkout.
+* **Stack:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=Spring-Security&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F.svg?style=flat-square&logo=Thymeleaf&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=Apache-Maven&logoColor=white)
+* **Key Features:** * Implements **Model-View-Controller** architecture for clean separation of concerns.
+    * Role-based access control (Admin/User) using **Spring Security**.
+    * Dynamic frontend rendering with **Thymeleaf** templates.
+    * Database persistence and complex querying with **PostgreSQL**.
+* **Why it matters:** This project showcases my ability to build a "monolith" production-ready system, managing both server-side logic and dynamic UI rendering within a single integrated framework.
+
+
 
 ## 🌐 Connect with Me
 I'm open to collaborations, discussions, and new challenges!  
