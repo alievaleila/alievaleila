@@ -1,31 +1,35 @@
-#  Hi, I'm Leyla 
+#  About Leyla Aliyeva
 
+Hey,It is Leyla👋
 
-
-Java Backend Developer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/>
-
-Passionate about building clean, scalable, and maintainable backend systems. Focused on improving my skills daily and delivering real-world projects.
+International Certiport IT Specialist (Java) certified Backend Developer, building robust and secure applications with Spring Boot, Spring Security, and PostgreSQL.
 
 ---
 
 ## 🧰 Tech Stack
+### 🛠️ My Tech Stack
 
-**Languages:**  
-Java · PostgreSQL · HTML   
+#### 🌐 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-**Frameworks & Libraries:**  
-Spring Framework (Core, Boot, Security, MVC Pattern, Thymeleaf)  
-Hibernate / JPA  
-JUnit  
-Lombok
+#### 🚀 Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-**Databases:**  
-PostgreSQL · SQL 
+#### 🗄️ Databases
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools & Platforms:**  
-Maven · Github · JUnit · Postman
-
-Other: Git, REST API, OOP
+#### 🔧 Tools & Build Systems
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=Apache-Maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
