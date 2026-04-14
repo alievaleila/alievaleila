@@ -59,7 +59,6 @@ International Certiport IT Specialist (Java) certified Backend Developer, buildi
 **Description:** A secure Spring Boot backend system that manages student progression from the first exam to the second exam, including authentication, validation, QR code generation, and email delivery.
 
 **Stack:**
-## 🛠️ Technologies Used
 
 <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk&logoColor=white" /><img src="https://img.shields.io/badge/Spring_Boot-3.x-brightgreen?style=for-the-badge&logo=springboot" /><img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql" /><img src="https://img.shields.io/badge/Hibernate-JPA-yellow?style=for-the-badge&logo=hibernate" /><img src="https://img.shields.io/badge/Argon2-Hashing-lightgrey?style=for-the-badge" /><img src="https://img.shields.io/badge/ZXing-QR_Code-red?style=for-the-badge" /><img src="https://img.shields.io/badge/Email-Service-blueviolet?style=for-the-badge" />
 
