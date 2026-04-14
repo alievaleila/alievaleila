@@ -53,6 +53,33 @@ International Certiport IT Specialist (Java) certified Backend Developer, buildi
     * Dynamic frontend rendering with **Thymeleaf** templates.
     * Database persistence and complex querying with **PostgreSQL**.
 * **Why it matters:** This project showcases my ability to build a "monolith" production-ready system, managing both server-side logic and dynamic UI rendering within a single integrated framework.
+* 
+#### 🎓 Second Exam Registration System
+
+**Description:** A secure Spring Boot backend system that manages student progression from the first exam to the second exam, including authentication, validation, QR code generation, and email delivery.
+
+**Stack:**
+## 🛠️ Technologies Used
+
+<img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-3.x-brightgreen?style=for-the-badge&logo=springboot" />
+<img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/Hibernate-JPA-yellow?style=for-the-badge&logo=hibernate" />
+<img src="https://img.shields.io/badge/Argon2-Hashing-lightgrey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ZXing-QR_Code-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Email-Service-blueviolet?style=for-the-badge" />
+
+**Key Features:**
+Secure student authentication using email & password
+First exam validation before second exam access
+Automatic QR code generation for eligible students
+Email notification system using JavaMailSender
+Idempotent registration (prevents duplicate QR generation)
+Clean architecture with Service / Repository / Controller layers
+Global exception handling for consistent API responses
+
+**Why it matters:**
+This project demonstrates my ability to design a secure backend workflow system, handling authentication, validation logic, and external integrations like email and QR code generation in a production-style Spring Boot architecture.
 
 ### 🎯 Current Focus
 
