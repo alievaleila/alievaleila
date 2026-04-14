@@ -54,7 +54,7 @@ International Certiport IT Specialist (Java) certified Backend Developer, buildi
     * Database persistence and complex querying with **PostgreSQL**.
 * **Why it matters:** This project showcases my ability to build a "monolith" production-ready system, managing both server-side logic and dynamic UI rendering within a single integrated framework.
 * 
-##### 🎓 [Second Exam Registration System](https://github.com/alievaleila/next-phase-enrollment)
+#### 🎓 [Second Exam Registration System](https://github.com/alievaleila/next-phase-enrollment)
 
 **Description:** A secure Spring Boot backend system that manages student progression from the first exam to the second exam, including authentication, validation, QR code generation, and email delivery.
 
